@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "ecb50c376eb34c41",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff8adad1b92c02c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "IT-sikkerhed/2. nmap/1. nmap.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44ccf5fa0d426984",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8f992e53b411477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c0c04cb4bcdbfdab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "73a858672a387548",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#namp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "29758049fd993463",
+    "type": "split",
+    "children": [
+      {
+        "id": "e18e4994895c6dff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f11bfde7b6c25fab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "IT-sikkerhed/2. nmap/1. nmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "eff8adad1b92c02c",
+  "lastOpenFiles": [
+    "IT-sikkerhed/2. nmap/1. nmap.md",
+    "IT-sikkerhed/2. nmap/3. Mitigering.md",
+    "IT-sikkerhed/2. nmap/Example/Top 20 TCP & UDP ports.md",
+    "IT-sikkerhed/2. nmap/2. Flags.md",
+    "IT-sikkerhed/2. nmap/Example/Scanning examples.md",
+    "IT-sikkerhed/2. nmap/Example/Port scan.md",
+    "IT-sikkerhed/2. nmap/Example/Host discovery teknikker.md",
+    "IT-sikkerhed/2. nmap/Example/1.2 Linux dig.md",
+    "IT-sikkerhed/2. nmap/Example/1.1 Linux host.md",
+    "IT-sikkerhed/2. nmap/x. Proces-eksempel.md"
+  ]
+}
