@@ -1,1 +1,0 @@
-Oprindeligt havde jeg hentet 

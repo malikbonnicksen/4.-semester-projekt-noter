@@ -53,6 +53,8 @@ Et andet problem med dette er at ARP-tabeller har en begrænset størrelse. Når
 ARP scan giver nmap kontrollen over dette og bypasser dermed systemets ARP cache. Man skærer dermed over en tiende-del af tilsvarende scan med IP.
 ARP scan er standard scan hvis nmap kan se, at man scanner fra samme netværk.
 
+
+## Effektivitet af de forskellige teknikker
 Nedenstående tabel viser de mest effektive ping probes:
 ![[Pasted image 20220529194229.png]]
 

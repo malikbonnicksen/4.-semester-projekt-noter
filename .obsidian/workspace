@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT-sikkerhed/2. nmap/x. Proces-eksempel.md",
+            "file": "IT-sikkerhed/4. Beskyttelse af netværk/Angrebsteknikker og deres forsvar/MAC flooding.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT-sikkerhed/2. nmap/x. Proces-eksempel.md",
+                "file": "IT-sikkerhed/4. Beskyttelse af netværk/Angrebsteknikker og deres forsvar/MAC flooding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "eff8adad1b92c02c",
   "lastOpenFiles": [
-    "IT-sikkerhed/2. nmap/x. Proces-eksempel.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/Angrebsteknikker og deres forsvar/MAC flooding.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/4.4 Switch.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/4.3 Router.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/4.1 Firewalls.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/Angrebsteknikker og deres forsvar/ARP poisoning.md",
+    "IT-sikkerhed/4. Beskyttelse af netværk/4.2 IDS IPS.md",
+    "IT-sikkerhed/3. Splunk/3.1 Splunk - SIEM.md",
     "IT-sikkerhed/2. nmap/3. Mitigering.md",
-    "IT-sikkerhed/2. nmap/3. Vulnerability detection.md",
-    "IT-sikkerhed/2. nmap/2. Flags.md",
-    "IT-sikkerhed/2. nmap/Related/ICMP.md",
-    "IT-sikkerhed/2. nmap/1. nmap.md",
-    "Raspberry Pi/2. Python/Python Web API framework.md",
-    "Raspberry Pi/1. Opsætning/Opsætning.md",
-    "IT-sikkerhed/2. nmap/Related/Scanning examples.md",
-    "IT-sikkerhed/2. nmap/Related/Agressiveness.md"
+    "IT-sikkerhed/2. nmap/x. Proces-eksempel.md",
+    "IT-sikkerhed/2. nmap/1. nmap.md"
   ]
 }
